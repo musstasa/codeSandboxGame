@@ -1,0 +1,32 @@
+{
+  "name": "programming-quiz",
+  "version": "1.0.0",
+  "description": "Hello! Glad to see you in our programming quiz. \nTo start playing read the instructions at the top of the browser window. Enter the first house and start writing code to complete the level. If you got stuck - click the green help button at the top of each level.\nGood luck!",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@brainhubeu/react-carousel": "1.13.48",
+    "less": "3.11.1",
+    "react": "16.12.0",
+    "react-confetti": "4.0.1",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "react-use": "14.2.0",
+    "styled-components": "5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
